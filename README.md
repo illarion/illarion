@@ -14,3 +14,5 @@ Find more about my professional journey on [LinkedIn](https://www.linkedin.com/i
 - Domains: Networking, Protocol Design, Distributed Systems
 - Tools: Docker, Linux
 
+## CV
+[Ilarion Kovalchuk CV](ilarion.kovalchuk.cv.md)
