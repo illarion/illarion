@@ -7,7 +7,7 @@ Bucharest, Romania
 ## Contact  
 - **Email:** [illarion.kovalchuk@gmail.com](mailto:illarion.kovalchuk@gmail.com)
 - **Github:** [https://github.com/illarion](https://github.com/illarion)
-- **CV:** [https://github.com/illarion/illarion/ilarion.kovalchuk.cv.md](https://github.com/illarion/illarion/ilarion.kovalchuk.cv.md)
+- **CV:** [https://github.com/illarion/illarion/blob/master/ilarion.kovalchuk.cv.md](https://github.com/illarion/illarion/blob/master/ilarion.kovalchuk.cv.md)
 - **LinkedIn:** [linkedin.com/in/illarion-kovalchuk](https://www.linkedin.com/in/illarion-kovalchuk)  
 
 ---
