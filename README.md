@@ -16,4 +16,4 @@ Find more about my professional journey on [LinkedIn](https://www.linkedin.com/i
 
 ## 📃 CV
 - 📡 [Ilarion Kovalchuk CV online](ilarion.kovalchuk.cv.md)
-- 🖨️ [Ilarion Kovalchuk CV pdf](Ilarion%20Kovalchuk%20CV.pdf)
+
