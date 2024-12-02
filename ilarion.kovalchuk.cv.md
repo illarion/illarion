@@ -19,7 +19,7 @@ as well as advanced knowledge of databases (MongoDB, Cassandra, Redis), cloud pl
 
 ### My career highlights include:
 
-- Developing cutting-edge solutions for Teradek, a leader in video streaming and cloud production workflows, contributing to products like Teradek Core and Teradek TV, which enable ultra-low latency video collaboration and live streaming with 4K HDR quality.
+- Developing cutting-edge solutions for [Teradek](https://teradek.com), a leader in video streaming and cloud production workflows, contributing to products like [CoreCloud](https://corecloud.tv) and Teradek TV.
 - Contributing to open-source projects like [gobetween.io](https://gobetween.io), where I focused on improving load balancing and service scalability.
 - Leading a team to build the server side of [Comodo Cloud](https://comodo.com), driving the product from architecture to implementation.
 - Optimizing data-intensive systems at nScaled and Augaroo, Inc., integrating Hadoop and Cassandra for large-scale data processing.
