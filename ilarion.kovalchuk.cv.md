@@ -1,6 +1,5 @@
 # Ilarion Kovalchuk  
 **Senior Software Engineer / Team Leader**  
-Bucharest, Romania 
 
 ---
 
@@ -31,10 +30,10 @@ as well as advanced knowledge of databases (MongoDB, Cassandra, Redis), cloud pl
 
 ## Skills and experience 
 ### Technical Skills
-- Programming Languages: Node.js, Golang, Java, Python
+- Programming Languages: Golang, Node.js, Java, Python
 - Databases: MongoDB, Cassandra, MySQL, Redis
 - Cloud Platforms: AWS, DO
-- Tools & Technologies: Hadoop, Nginx, Docker
+- Tools & Technologies: Docker, Nginx, Gobetween
 - Networking: Custom TCP/UDP Protocols
 ### Domain Knowledge
 - Video streaming and production systems
@@ -42,7 +41,6 @@ as well as advanced knowledge of databases (MongoDB, Cassandra, Redis), cloud pl
 - Data-intensive application design and optimization
 - Security protocols and constrained environment monitoring
 ### Soft Skills
-- Agile methodologies (Scrum, Kanban)
 - Team leadership and cross-team collaboration
 - Strategic planning and decision-making
 - Strong communication in English, Ukrainian, and Russian
@@ -53,8 +51,7 @@ as well as advanced knowledge of databases (MongoDB, Cassandra, Redis), cloud pl
 
 ### **Teradek**  
 **Senior Software Engineer**  
-*June 2016 – Present (8 years 6 months)*  
-Odesa, Ukraine  
+*June 2016 – Present*
 - Architected, developed, deployed, and supported a highly loaded multi-server micro-service system.  
 - Utilized Node.js and Golang, supported by Redis and MongoDB.  
 - Implemented custom TCP/UDP protocols.  
@@ -63,21 +60,20 @@ Odesa, Ukraine
 
 ### **gobetween.io**  
 **Core Contributor**  
-*August 2016 – Present (7 years 3 months)*  
+*August 2016 – Present*  
 - Contributed to architecture, development, patch reviews, and other duties for [gobetween.io](http://gobetween.io).  
 
 ---
 
 ### **Brokenbeats.net**  
 **Author and Creator**  
-*November 2015 – Present (8 years)*  
+*November 2015 – Present*  
 
 ---
 
 ### **CloudLinux**  
 **Senior Software Developer**  
-*July 2014 – October 2015 (1 year 4 months)*  
-Odesa, Ukraine  
+*July 2014 – October 2015*  
 - Developed and supported limited user environment monitoring tools.  
 - Worked on various userland components of the operating system.  
 
@@ -85,8 +81,7 @@ Odesa, Ukraine
 
 ### **Scrapinghub**  
 **Software Engineer**  
-*August 2013 – May 2014 (10 months)*  
-Odesa, Ukraine  
+*August 2013 – May 2014*  
 - Developed Python-based web crawlers and related infrastructure.  
 - Improved algorithms to optimize crawling and memory usage.  
 - Built a geographical index for U.S. locations.  
@@ -95,16 +90,14 @@ Odesa, Ukraine
 
 ### **Augmented Pixels Co**  
 **Software Engineer**  
-*December 2013 – February 2014 (3 months)*  
-Odesa, Ukraine  
+*December 2013 – February 2014*  
 - Developed backend and frontend components for augmented reality company websites.  
 
 ---
 
 ### **nScaled**  
 **Senior Java Developer**  
-*September 2012 – April 2013 (8 months)*  
-Odesa, Ukraine  
+*September 2012 – April 2013*  
 - Developed Recovery-as-a-Service solutions.  
 - Focused on large-scale data processing using Hadoop, Cassandra, and MySQL.  
 
@@ -112,16 +105,14 @@ Odesa, Ukraine
 
 ### **Augaroo, Inc.**  
 **Senior Java Developer**  
-*June 2011 – September 2012 (1 year 4 months)*  
-Odesa, Ukraine  
+*June 2011 – September 2012*  
 - Built big data processing tools and support infrastructure for [augaroo.com](http://augaroo.com).  
 
 ---
 
 ### **Comodo**  
 **Team Lead**  
-*August 2008 – June 2011 (2 years 11 months)*  
-Odesa, Ukraine  
+*August 2008 – June 2011*  
 - Led development of the server side of Comodo Cloud ([ccloud.com](http://ccloud.com)) from architecture to implementation.  
 - Managed teams and external collaborations using Scrum methodologies.  
 
@@ -129,8 +120,7 @@ Odesa, Ukraine
 
 ### **LTD OM-Technology**  
 **Software Developer**  
-*June 2005 – August 2008 (3 years 3 months)*  
-Odesa, Ukraine  
+*June 2005 – August 2008*  
 - Developed medical testing software, including eye recognition algorithms and reporting engines.  
 - Conducted statistical research and implemented clusterization of patient parameters.  
 
