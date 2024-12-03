@@ -19,9 +19,10 @@ as well as advanced knowledge of databases (MongoDB, Cassandra, Redis), cloud pl
 
 ### My career highlights include:
 
-- Developing cutting-edge solutions for [Teradek](https://teradek.com), a leader in video streaming and cloud production workflows, contributing to products like [CoreCloud](https://corecloud.tv) and Teradek TV.
-- Contributing to open-source projects like [gobetween.io](https://gobetween.io), where I focused on improving load balancing and service scalability.
+- Leading the team and developing cutting-edge solutions for [Teradek](https://teradek.com), contributing to products like [CoreCloud](https://corecloud.tv) and Teradek TV.
+- Contributing to open-source projects like [gobetween.io](https://gobetween.io). 
 - Leading a team to build the server side of [Comodo Cloud](https://comodo.com), driving the product from architecture to implementation.
+- Created from scratch a golang + ffmpeg + docker based online radio [BrokenBeats](https://brokenbeats.net)
 - Optimizing data-intensive systems at nScaled and Augaroo, Inc., integrating Hadoop and Cassandra for large-scale data processing.
 - Creating innovative solutions for user environment monitoring at [CloudLinux](https://cloudlinux.com), enhancing system security and stability for hosting providers.
 - My work approach combines technical precision, strategic foresight, and a passion for solving complex problems. I am dedicated to delivering impactful, scalable solutions that drive business growth.
@@ -31,13 +32,13 @@ as well as advanced knowledge of databases (MongoDB, Cassandra, Redis), cloud pl
 ## Skills and experience 
 ### Technical Skills
 - Programming Languages: Golang, Node.js, Java, Python
-- Databases: MongoDB, Cassandra, MySQL, Redis
+- Databases: MongoDB, BoltDB, Cassandra, MySQL, Redis
 - Cloud Platforms: AWS, DO
 - Tools & Technologies: Docker, Nginx, Gobetween
 - Networking: Custom TCP/UDP Protocols
 ### Domain Knowledge
 - Video streaming and production systems
-- Distributed and microservice architectures
+- Distributed architectures
 - Data-intensive application design and optimization
 - Security protocols and constrained environment monitoring
 ### Soft Skills
