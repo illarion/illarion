@@ -1,0 +1,110 @@
+% Modern CV LaTeX Template
+\documentclass[11pt,a4paper]{article}
+
+% Packages
+\usepackage{geometry}
+\usepackage{fontspec}
+\usepackage{xcolor}
+\usepackage{hyperref}
+\usepackage{titlesec}
+\usepackage{enumitem}
+\usepackage{parskip}
+\usepackage{setspace}
+
+% Page setup
+\geometry{
+  top=1in,
+  bottom=1in,
+  left=1in,
+  right=1in
+}
+
+% Fonts
+\setmainfont{Liberation Sans}
+\setsansfont{Liberation Sans}
+
+% Colors
+\definecolor{headercolor}{HTML}{1e293b}
+\definecolor{accentcolor}{HTML}{2563eb}
+\definecolor{linkcolor}{HTML}{2563eb}
+
+% Hyperlink setup
+\hypersetup{
+  colorlinks=true,
+  linkcolor=linkcolor,
+  urlcolor=linkcolor,
+  pdfborder={0 0 0}
+}
+
+% Section formatting
+\titleformat{\section}
+  {\color{accentcolor}\Large\bfseries\sffamily}
+  {}
+  {0em}
+  {}
+  [\titlerule]
+
+\titleformat{\subsection}
+  {\color{headercolor}\large\bfseries\sffamily}
+  {}
+  {0em}
+  {}
+
+\titleformat{\subsubsection}
+  {\color{headercolor}\normalsize\bfseries\sffamily}
+  {}
+  {0em}
+  {}
+
+% Spacing
+\titlespacing*{\section}{0pt}{1.5em}{0.5em}
+\titlespacing*{\subsection}{0pt}{1em}{0.3em}
+\titlespacing*{\subsubsection}{0pt}{0.8em}{0.2em}
+
+% List formatting
+\setlist[itemize]{
+  leftmargin=*,
+  topsep=0.3em,
+  itemsep=0.2em,
+  parsep=0pt
+}
+
+% Line spacing
+\setstretch{1.15}
+
+% Pandoc compatibility - define tightlist command
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+
+% Remove page numbers
+\pagestyle{empty}
+
+% Custom title format
+\makeatletter
+\renewcommand{\maketitle}{
+  \begin{flushleft}
+    {\Huge\bfseries\color{headercolor}\sffamily\@title}
+    \vskip 0.3em
+    {\Large\color{gray}\sffamily\@author}
+  \end{flushleft}
+  \vskip 1em
+}
+\makeatother
+
+% Pandoc variables
+$if(title)$
+\title{$title$}
+$endif$
+$if(author)$
+\author{$author$}
+$endif$
+
+\begin{document}
+
+$if(title)$
+\maketitle
+$endif$
+
+$body$
+
+\end{document}

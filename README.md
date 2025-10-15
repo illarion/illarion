@@ -1,19 +1,25 @@
-I’m Ilarion Kovalchuk, a software engineer with a passion for building scalable systems, contributing to open-source projects, and innovating in the fields of networking and multimedia protocols.
+Software engineer with 18 years building distributed systems, video streaming platforms, and open-source tools. Currently architecting microservices at Teradek for live broadcast workflows.
 
-## 🌟 Highlights
-* 🛠️ Open Source Advocate: Creator and contributor to projects like [gonotify](https://github.com/illarion/gonotify), a Go wrapper around inotify, and [gobetween](https://gobetween.io/), a smart load balancer for Layer 4 protocols.
-* 🌍 Collaborator: Active in open-source communities, focusing on pragmatic solutions that are simple, efficient, and reusable. [gonotify](https://github.com/illarion/gonotify) for instance, is used in [tailscale](https://tailscale.com/)
+## Highlights
 
-## 💼 Professional Experience
-With extensive experience in backend services, I have worked on amazing projects, contributing to advanced systems for multimedia transport, system monitoring, online backup systems, load balancing and many more
+* Creator of [gonotify](https://github.com/illarion/gonotify) (Go inotify wrapper) - used in production by [Tailscale](https://tailscale.com/)
+* Core contributor to [gobetween](https://gobetween.io/) - open-source Layer 4 load balancer written in Go
+* Built [BrokenBeats](https://brokenbeats.net) - online radio platform using Golang, FFmpeg, and Docker
 
-Find more about my professional journey on [LinkedIn](https://www.linkedin.com/in/illarion-kovalchuk/).
+## Professional Experience
 
-## 🔧 Technologies & Skills
-- Languages: Go, Python, JavaScript
-- Domains: Networking, Protocol Design, Distributed Systems
-- Tools: Docker, Linux
+Architecting video streaming infrastructure at Teradek (CoreCloud, Teradek TV) handling thousands of concurrent streams with custom TCP/UDP protocols. Previously built distributed systems for CloudLinux, Comodo Cloud, and data processing platforms using Hadoop and Cassandra.
 
-## 📃 CV
-- 📡 [Ilarion Kovalchuk CV online](ilarion.kovalchuk.cv.md)
+Find more on [LinkedIn](https://www.linkedin.com/in/illarion-kovalchuk/).
+
+## Technologies
+
+**Languages:** Golang, Node.js, Java, Python
+**Databases:** MongoDB, Cassandra, Redis, MySQL
+**Infrastructure:** AWS, Docker, Nginx
+**Specialized:** TCP/UDP protocols, video streaming, distributed systems, load balancing
+
+## CV
+
+[Full CV](ilarion.kovalchuk.cv.md)
 

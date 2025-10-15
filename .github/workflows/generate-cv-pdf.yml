@@ -1,0 +1,40 @@
+name: Generate CV PDF
+
+on:
+  push:
+    branches:
+      - master
+    paths:
+      - 'ilarion.kovalchuk.cv.md'
+
+permissions:
+  contents: write
+
+jobs:
+  generate-pdf:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Install Pandoc
+        uses: pandoc/actions/setup@main
+
+      - name: Install LaTeX
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y texlive-xetex texlive-fonts-recommended fonts-liberation
+
+      - name: Convert Markdown to PDF
+        run: |
+          pandoc ilarion.kovalchuk.cv.md \
+            -o ilarion.kovalchuk.cv.pdf \
+            --pdf-engine=xelatex \
+            --template=cv-template.tex
+
+      - name: Commit PDF
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Auto-update CV PDF"
+          file_pattern: "ilarion.kovalchuk.cv.pdf"
