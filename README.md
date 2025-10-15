@@ -21,5 +21,6 @@ Find more on [LinkedIn](https://www.linkedin.com/in/illarion-kovalchuk/).
 
 ## CV
 
-[Full CV](ilarion.kovalchuk.cv.md)
+[Read CV](ilarion.kovalchuk.cv.md)
+[Download CV](ilarion.kovalchuk.cv.pdf)
 
