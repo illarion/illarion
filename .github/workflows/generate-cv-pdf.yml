@@ -6,6 +6,7 @@ on:
       - master
     paths:
       - 'ilarion.kovalchuk.cv.md'
+  workflow_dispatch:
 
 permissions:
   contents: write
@@ -38,8 +39,12 @@ jobs:
             --pdf-engine=xelatex \
             --template=cv-template.tex
 
-      - name: Commit PDF
-        uses: stefanzweifel/git-auto-commit-action@v7
-        with:
-          commit_message: "Auto-update CV PDF"
-          file_pattern: "ilarion.kovalchuk.cv.pdf"
+      - name: Publish PDF to `pdf` branch
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git checkout --orphan pdf-tmp
+          git rm -rf --cached . > /dev/null
+          git add -f ilarion.kovalchuk.cv.pdf
+          git commit -m "Auto-update CV PDF"
+          git push -f origin pdf-tmp:pdf

@@ -22,4 +22,4 @@ Find more on [LinkedIn](https://www.linkedin.com/in/illarion-kovalchuk/).
 ## CV
 
 [Read CV](ilarion.kovalchuk.cv.md)
-[Download CV](ilarion.kovalchuk.cv.pdf)
+[Download CV](https://github.com/illarion/illarion/raw/pdf/ilarion.kovalchuk.cv.pdf)
