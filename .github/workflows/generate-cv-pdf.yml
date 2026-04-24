@@ -18,18 +18,17 @@ concurrency:
 jobs:
   generate-pdf:
     runs-on: ubuntu-latest
+    env:
+      FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
 
     steps:
       - name: Checkout repository
         uses: actions/checkout@v6
 
-      - name: Install Pandoc
-        uses: pandoc/actions/setup@main
-
-      - name: Install LaTeX
+      - name: Install Pandoc and LaTeX
         uses: awalsh128/cache-apt-pkgs-action@v1
         with:
-          packages: texlive-xetex texlive-fonts-recommended fonts-liberation
+          packages: pandoc texlive-xetex texlive-fonts-recommended fonts-liberation
           version: 1
 
       - name: Convert Markdown to PDF
