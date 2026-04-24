@@ -1,26 +1,25 @@
-Software engineer with 18 years building distributed systems, video streaming platforms, and open-source tools. Currently architecting microservices at Teradek for live broadcast workflows.
+Backend engineer working on distributed systems and video streaming.
 
 ## Highlights
 
-* Creator of [gonotify](https://github.com/illarion/gonotify) (Go inotify wrapper) - used in production by [Tailscale](https://tailscale.com/)
-* Core contributor to [gobetween](https://gobetween.io/) - open-source Layer 4 load balancer written in Go
-* Built [BrokenBeats](https://brokenbeats.net) - online radio platform using Golang, FFmpeg, and Docker
+* Creator of [gonotify](https://github.com/illarion/gonotify), a Go inotify wrapper. [Tailscale](https://tailscale.com/) uses it in `tailscaled` to watch `/etc/resolv.conf` for DNS changes ([source](https://github.com/tailscale/tailscale/blob/main/feature/linuxdnsfight/linuxdnsfight.go)).
+* One of the maintainers of [gobetween](https://gobetween.io/), an open-source L4 load balancer in Go.
+* Built and maintain [BrokenBeats](https://brokenbeats.net), an online radio platform. Go, FFmpeg, Docker.
 
 ## Professional Experience
 
-Architecting video streaming infrastructure at Teradek (CoreCloud, Teradek TV) handling thousands of concurrent streams with custom TCP/UDP protocols. Previously built distributed systems for CloudLinux, Comodo Cloud, and data processing platforms using Hadoop and Cassandra.
+Most recently at Teradek, on the backend for CoreCloud and Teradek TV — live video ingest and stream routing over custom TCP and UDP protocols. Before that, CloudLinux, Comodo Cloud, and a few Hadoop/Cassandra data platforms.
 
 Find more on [LinkedIn](https://www.linkedin.com/in/illarion-kovalchuk/).
 
 ## Technologies
 
-**Languages:** Golang, Node.js, Java, Python
+**Languages:** Go, Node.js, Java, Python
 **Databases:** MongoDB, Cassandra, Redis, MySQL
 **Infrastructure:** AWS, Docker, Nginx
-**Specialized:** TCP/UDP protocols, video streaming, distributed systems, load balancing
+**Areas:** TCP/UDP protocols, video streaming, distributed systems, load balancing
 
 ## CV
 
 [Read CV](ilarion.kovalchuk.cv.md)
 [Download CV](ilarion.kovalchuk.cv.pdf)
-
