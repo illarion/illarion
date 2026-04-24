@@ -14,7 +14,7 @@ Find more on [LinkedIn](https://www.linkedin.com/in/illarion-kovalchuk/).
 
 ## Technologies
 
-**Languages:** Go, Node.js, Java, Python
+**Languages:** Go, Node.js, Python
 **Databases:** MongoDB, Cassandra, Redis, MySQL
 **Infrastructure:** AWS, Docker, Nginx
 **Areas:** TCP/UDP protocols, video streaming, distributed systems, load balancing

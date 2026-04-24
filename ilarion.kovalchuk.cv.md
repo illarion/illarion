@@ -19,7 +19,7 @@ Backend engineer and team lead. Most recently at Teradek, on the cloud side of l
 
 ## Skills
 
-**Languages:** Go, Node.js, Java, Python
+**Languages:** Go, Node.js, Python
 **Databases:** MongoDB, Cassandra, Redis, MySQL, BoltDB
 **Infrastructure:** AWS, DigitalOcean, Docker, Nginx
 **Areas:** video streaming, distributed systems, TCP/UDP protocol design, load balancing
